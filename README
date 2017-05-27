@@ -1,0 +1,11 @@
+Todos os testes foram feitos para Linux. Algumas adaptacoes precisam
+ser realizadas para compilacao/execucao outros SOs.
+
+Conteudo:
+idclassimg.dat           - arquivo de entrada para descritores (base completa)
+idclassimg_reduced.dat   - arquivo de entrada para descritores (metade da base)
+exec_all.sh              - exemplo para executar descritores
+Descriptors              - diretorio com fontes dos descritores (para compilar)
+Descriptors/build_all.sh - exemplo para compilar/montar descritores
+demais diretorios        - imagens em formato PPM ou PGM
+

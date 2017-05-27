@@ -1,0 +1,26 @@
+==== Cor ====
+acc
+bic
+lucolor (colorbitmap)
+csd
+gch
+jac
+
+==== Textura ====
+htd
+las
+lbp
+sasi
+sid
+sms
+
+==== Forma ====
+bas
+cs (contour saliences)
+fourier
+momentsinvariant
+msfractal
+ss (segment saliences)
+tsd (tensor scale)
+tsdiz
+
